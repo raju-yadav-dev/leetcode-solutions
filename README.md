@@ -3,21 +3,28 @@
 This repository contains my solutions to **LeetCode problems** implemented in **Java**.
 The goal is to strengthen problem-solving skills and prepare for technical interviews.
 
+
+
+
 ---
 
 ## 🧑‍💻 Language Used
 - **Java**
+
+
 
 ---
 
 ## 📂 Repository Structure
 
 Easy/
-├── 1_Two_Sum.java
-├── 1_Two_Sum.md
-├── 13_Roman_to_Integer.java
-├── 13_Roman_to_Integer.md
-└── ...
+├── 1_Two_Sum.java  
+├── 1_Two_Sum.md  
+├── 13_Roman_to_Integer.java  
+├── 13_Roman_to_Integer.md  
+└── ...  
+
+
 
 ---
 
@@ -30,6 +37,8 @@ Easy/
 - Hashing
 - Java Data Collections
 
+
+
 ---
 
 ## 📈 Progress
@@ -37,10 +46,14 @@ Easy/
 - **Medium:** ⏳ Coming Soon
 - **Hard:** ⏳ Coming Soon
 
+
+
 ---
 
 ## 🔗 LeetCode Profile
 👉 https://leetcode.com/raju-yadav-dev/
+
+
 
 ---
 
