@@ -17,7 +17,7 @@ The goal is to strengthen problem-solving skills and prepare for technical inter
 
 ## 📂 Repository Structure
 
-Easy/
+Easy/  
 ├── 1_Two_Sum.java  
 ├── 1_Two_Sum.md  
 ├── 13_Roman_to_Integer.java  
