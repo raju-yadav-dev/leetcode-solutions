@@ -9,6 +9,9 @@ The goal is to strengthen problem-solving skills and prepare for technical inter
 ## 🧑‍💻 Language Used
 - **Java**
   
+
+*More languages coming soon.*
+
   
 ---
 
