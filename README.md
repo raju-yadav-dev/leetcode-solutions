@@ -55,6 +55,6 @@ Easy/
 
 ## ⭐ Notes
 - Each problem includes:
-  - Java solution .java
-  - Markdown explanation .md
+  - Java solution (.java)
+  - Markdown explanation (.md)
 - `.class` files are ignored
