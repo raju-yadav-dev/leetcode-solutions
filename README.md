@@ -49,4 +49,4 @@ Easy/
 - Each problem includes:
   - Java solution (.java)
   - Markdown explanation (.md)
-- `.class` files are ignored
+- `.class` files are ignored 
