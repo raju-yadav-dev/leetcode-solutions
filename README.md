@@ -3,16 +3,13 @@
 This repository contains my solutions to **LeetCode problems** implemented in **Java**.
 The goal is to strengthen problem-solving skills and prepare for technical interviews.
    
-  
 ---
 
-## 🧑‍💻 Language Used
+## 🧑‍💻 Language Used 
 - **Java**
-  
 
 *More languages coming soon.*
 
-  
 ---
 
 ## 📂 Repository Structure
@@ -24,7 +21,6 @@ Easy/
 ├── 13_Roman_to_Integer.md  
 └── ...  
   
-  
 ---
 
 ## 📌 Topics Covered
@@ -34,8 +30,6 @@ Easy/
 - Linked List
 - Recursion
 - Hashing
-- Java Data Collections
-  
   
 ---
 
@@ -44,17 +38,15 @@ Easy/
 - **Medium:** ⏳ Coming Soon
 - **Hard:** ⏳ Coming Soon
   
-  
 ---
 
 ## 🔗 LeetCode Profile
 👉 https://leetcode.com/raju-yadav-dev/
   
-  
----
+--- 
 
 ## ⭐ Notes
 - Each problem includes:
   - Java solution (.java)
   - Markdown explanation (.md)
-- `.class` files are ignored
+- `.class` files are ignored 
